@@ -37,3 +37,6 @@ Nội dung chính:
 Công nghệ sử dụng:
 
 -Hệ quản trị CSDL: MySQL
+
+Sơ đồ ERD
+<img width="1272" height="680" alt="image" src="https://github.com/user-attachments/assets/114db4eb-be4d-46a2-b7b2-d0ffd95145c9" />
